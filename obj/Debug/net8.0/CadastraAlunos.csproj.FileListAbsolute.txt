@@ -1,0 +1,14 @@
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\bin\Debug\net8.0\CadastraAlunos.exe
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\bin\Debug\net8.0\CadastraAlunos.deps.json
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\bin\Debug\net8.0\CadastraAlunos.runtimeconfig.json
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\bin\Debug\net8.0\CadastraAlunos.dll
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\bin\Debug\net8.0\CadastraAlunos.pdb
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.AssemblyInfoInputs.cache
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.AssemblyInfo.cs
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.csproj.CoreCompileInputs.cache
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.dll
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\refint\CadastraAlunos.dll
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.pdb
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.genruntimeconfig.cache
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\ref\CadastraAlunos.dll
