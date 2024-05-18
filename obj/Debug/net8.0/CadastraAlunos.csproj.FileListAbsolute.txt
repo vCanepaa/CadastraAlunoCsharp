@@ -12,3 +12,4 @@ C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\ne
 C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.pdb
 C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.genruntimeconfig.cache
 C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\ref\CadastraAlunos.dll
+C:\Users\vcane\Desktop\estudos\csharp\CadastraAlunos\CadastraAlunos\obj\Debug\net8.0\CadastraAlunos.sourcelink.json
