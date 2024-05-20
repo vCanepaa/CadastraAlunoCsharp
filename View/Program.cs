@@ -1,7 +1,9 @@
 ﻿
+using CadastraAlunos.DataBase;
 using CadastraAlunos.Exceptions;
 
 AlunoController ac = new AlunoController();
+
 
 do
 {
