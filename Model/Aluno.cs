@@ -19,6 +19,18 @@ public class Aluno
 	{
 
 	}
+    public bool Equals(Aluno obj)
+    {
+      
+        if (obj == null || GetType() != obj.GetType() || !(obj.Cpf.Equals(this.Cpf)))
+        {
+            return false;
+		}
+		else
+		{
+			return true;
+		}
+    }
 }
 
 

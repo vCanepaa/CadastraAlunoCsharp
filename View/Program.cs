@@ -1,12 +1,24 @@
 ﻿
 using CadastraAlunos.DataBase;
 using CadastraAlunos.Exceptions;
+using System.Runtime.CompilerServices;
 
 AlunoController ac = new AlunoController();
+int cont = 0;
 
 
 do
 {
+    if (cont >= 2)
+    {
+        Console.Clear();
+        cont = 0;
+    }
+    else
+    {
+        cont++;
+    }
+
     Console.WriteLine("----CADASTRO DE ALUNOS-----");
     Console.WriteLine("1-CADASTRAR");
     Console.WriteLine("2-ALTERAR");
@@ -43,6 +55,7 @@ do
                     break;
             }
         }
+       
     }
     catch (FormatException e)
     {
@@ -54,6 +67,10 @@ do
     }catch(AlunoNotFoundException e)
     {
         Console.WriteLine(e.Message);
+    }catch(DataBaseException e)
+    {
+        Console.WriteLine(e.Message);
     }
 
 } while (true);
+
